@@ -3,7 +3,7 @@ import ProductList from "./ProductsList";
 
 function App() {
   return (
-    <div>
+    <div id="">
       <Navbar />
       <ProductList />
     </div>
